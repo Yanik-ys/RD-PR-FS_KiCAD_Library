@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "T4144015041-000-3")
 	(tags "Connector")
-	(property "Reference" "J**"
+	(property "Reference" "X**"
 		(at -1.77 12.032 0)
 		(layer "F.SilkS")
 		(uuid "bd718e01-28d2-406c-8ffb-06b88b941d3d")
@@ -1427,3 +1427,4 @@
 		)
 	)
 )
+
