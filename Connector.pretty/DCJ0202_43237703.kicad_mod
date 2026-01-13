@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DC POWER JACK\n\nSource: DCJ0202.pdf")
-	(property "Reference" "REF**"
+	(property "Reference" "ReEF**"
 		(at -3.81 -5.08 0)
 		(layer "F.SilkS")
 		(hide yes)
